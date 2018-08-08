@@ -1,0 +1,1 @@
+global.STATIC_IMAGES['bg_11111.png'] = require('./bg_11111.jpg');
